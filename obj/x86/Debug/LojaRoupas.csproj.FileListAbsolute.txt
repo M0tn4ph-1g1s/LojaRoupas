@@ -1,0 +1,132 @@
+c:\users\aluno\documents\visual studio 2010\Projects\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.exe
+c:\users\aluno\documents\visual studio 2010\Projects\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\LojaRoupas\LojaRoupas\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2010\Projects\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Form1.resources
+c:\users\aluno\documents\visual studio 2010\Projects\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2010\Projects\LojaRoupas\LojaRoupas\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\LojaRoupas\LojaRoupas\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.exe
+c:\users\aluno\documents\visual studio 2010\Projects\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.pdb
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.exe
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.pdb
+L:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.exe
+L:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.pdb
+L:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Cliente.resources
+L:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Form1.resources
+L:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Fornecedor.resources
+L:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Produto.resources
+L:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Properties.Resources.resources
+L:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Usuario.resources
+L:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.exe
+L:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.pdb
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.exe
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.pdb
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.exe
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.pdb
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Cliente.resources
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Form1.resources
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Fornecedor.resources
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Produto.resources
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Properties.Resources.resources
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.csproj.GenerateResource.Cache
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.csprojResolveAssemblyReference.cache
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.exe
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.pdb
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.exe
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.pdb
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Cliente.resources
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Form1.resources
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Fornecedor.resources
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Produto.resources
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Properties.Resources.resources
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.exe
+G:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.pdb
+G:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.exe
+G:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.pdb
+G:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.csprojResolveAssemblyReference.cache
+G:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Cliente.resources
+G:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Form1.resources
+G:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Fornecedor.resources
+G:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Produto.resources
+G:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Properties.Resources.resources
+G:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Usuario.resources
+G:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.csproj.GenerateResource.Cache
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Usuarios.resources
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.FormaPagamento.resources
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Categoria.resources
+E:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Caixa.resources
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Categoria.resources
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.FormaPagamento.resources
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Caixa.resources
+K:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Usuarios.resources
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.exe
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.pdb
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.csprojResolveAssemblyReference.cache
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Categoria.resources
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Cliente.resources
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Form1.resources
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.FormaPagamento.resources
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Fornecedor.resources
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Produto.resources
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Properties.Resources.resources
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Caixa.resources
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Usuarios.resources
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.csproj.GenerateResource.Cache
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.exe
+D:\etec\etecBackup\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.pdb
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.exe
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.pdb
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.csprojResolveAssemblyReference.cache
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Categoria.resources
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Cliente.resources
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Form1.resources
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.FormaPagamento.resources
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Fornecedor.resources
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Produto.resources
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Properties.Resources.resources
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Caixa.resources
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Usuarios.resources
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.csproj.GenerateResource.Cache
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.csprojResolveAssemblyReference.cache
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Categoria.resources
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Cliente.resources
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Form1.resources
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.FormaPagamento.resources
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Fornecedor.resources
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Produto.resources
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Properties.Resources.resources
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Caixa.resources
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Usuarios.resources
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.csproj.GenerateResource.Cache
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.exe
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.pdb
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.exe
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.pdb
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.obj.BackupTela.resources
+E:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.itmVenda.resources
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.itmVenda.resources
+F:\Arquivos\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.obj.BackupTela.resources
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.exe
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\bin\Debug\LojaRoupas.pdb
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.csprojAssemblyReference.cache
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.obj.BackupTela.resources
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Categoria.resources
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Cliente.resources
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Form1.resources
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.FormaPagamento.resources
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Fornecedor.resources
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.itmVenda.resources
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Produto.resources
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Properties.Resources.resources
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Caixa.resources
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.Usuarios.resources
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.csproj.GenerateResource.cache
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.csproj.CoreCompileInputs.cache
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.exe
+C:\Users\hselas\Desktop\backup pendrive\TECNICO\DS\projeto loja\LojaRoupas\LojaRoupas\obj\x86\Debug\LojaRoupas.pdb
